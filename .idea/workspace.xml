@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4424c14-839d-43f9-b937-3cc95b7d5c34" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/popuo-box.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/swipebox.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/events.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/603482048491548563.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/b-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/foot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/icons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/img-sprite.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/img1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/img2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/img3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/img5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mail.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/menu.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/play.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/sprit-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/tick1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/yangs.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/ys.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/yunzi.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/z-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/z-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/z-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/zoom.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jkgw.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mixitup.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.swipebox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.wmuSlider.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/login.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/news.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/registration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zxgy.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/说明.txt" afterPath="" />
-    </list>
+    <list default="true" id="e4424c14-839d-43f9-b937-3cc95b7d5c34" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -129,6 +74,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,12 +101,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536804769902</updated>
-      <workItem from="1536804771187" duration="5000" />
+      <workItem from="1536804771187" duration="138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5000" />
+    <option name="totallyTimeSpent" value="138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="721" y="0" width="1203" height="1047" extended-state="0" />
